@@ -1,6 +1,6 @@
 # Modal Window Effect Theme
 
-
+The idea is to have a trigger button (or any element) which will make a modal window appear on click using a simple transition (or animation).
 
 ![Modal Window Effect ](https://github.com/deboasapp/modaleffect-theme/blob/master/index.jpeg)
 
