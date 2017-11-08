@@ -1,4 +1,4 @@
-# modaleffect-theme
+# Modal Window Effect Theme
 Modal Window Effect
 
 ![Modal Window Effect ](https://github.com/deboasapp/modaleffect-theme/blob/master/index.jpeg)
